@@ -5,6 +5,9 @@ numpy
 # Sentiment Analysis
 nltk
 
+langchain
+langchain-openai
+
 # Dashboard frameworks
 streamlit
 dash
