@@ -1,0 +1,17 @@
+# Core data processing and analysis
+pandas
+numpy
+
+# Sentiment Analysis
+nltk
+
+# Dashboard frameworks
+streamlit
+dash
+
+# Visualization
+plotly
+chart-studio
+
+# Optional but recommended
+python-dotenv
